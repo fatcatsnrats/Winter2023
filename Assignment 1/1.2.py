@@ -43,3 +43,4 @@ def main():
     print('Coefficient of Variation: ' + str(dCV) + '\n')
 
 main()
+graphs()
